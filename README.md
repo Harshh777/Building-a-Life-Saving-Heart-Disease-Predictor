@@ -30,7 +30,14 @@ The dataset contains patient-level clinical attributes such as:
 - `target = 0` → No heart disease  
 
 ---
+## Tools & Technologies
+- Python
+- Google Colab
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-Learn
 
+  
 ## Exploratory Data Analysis (EDA)
 The following EDA steps were performed:
 - Dataset structure and data type inspection
@@ -89,15 +96,3 @@ Special attention was given to **recall for the positive class (heart disease)**
 - Certain clinical features consistently demonstrated strong association with heart disease
 - The dataset proved suitable for predictive modeling with proper preprocessing
 
----
-
-## Tools & Technologies
-- Python
-- Google Colab
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Scikit-Learn
-
-
-## Author
-Harsh Raj
